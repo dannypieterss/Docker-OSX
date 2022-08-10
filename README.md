@@ -43,6 +43,8 @@ If you like this project, consider contributing here or upstream!
 
 Video setup tutorial is also available here: https://www.youtube.com/watch?v=wLezYl77Ll8
 
+**Linux users:** [click here to see the notes below](#initial-setup)
+
 **Windows users:** [click here to see the notes below](#id-like-to-run-docker-osx-on-windows)!
 
 <p align="center">
